@@ -1,2 +1,3 @@
-# aula_github_1
-Repositório para a aula de GitHub
+# Bem-vinda(o) à aula de GitHub!
+
+Hoje vamos aprender a usá-lo, bem como criar repositórios!!
